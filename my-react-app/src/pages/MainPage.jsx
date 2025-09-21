@@ -7,6 +7,7 @@ import { ConclusionSection } from "./ConclusionSection";
 export default function MainPage() {
   return (
     <div className="w-screen min-h-screen flex flex-col">
+      
       <HeaderSection />
       <TimelineSection />
       <ContextSection />
